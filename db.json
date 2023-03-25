@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "nombre": "Josues",
+      "empresa": "Codigo Con Juan",
+      "email": "josue@juan.com",
+      "telefono": "31983913",
+      "notas": "NO se",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": "319381983",
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": "1398198938",
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Edmundo Actualizado",
+      "empresa": "Etasa",
+      "email": "edmundo@gmail.com",
+      "telefono": "970435054",
+      "notas": "Ecommerce",
+      "id": 7
+    }
+  ]
+}
